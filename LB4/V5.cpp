@@ -33,7 +33,7 @@ int main() {
     return 0;
 }
 
-inline int get_natural_value() {
+int get_natural_value() {
     int32_t value{};
     if (!((std::cin >> value) && (value >= 1))) {
         throw " value is innaturaly";
