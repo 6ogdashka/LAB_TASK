@@ -1,5 +1,6 @@
-#include <iomanip>
+// вы отсортили после того как  сделал, поэтому я делал 5 вариант а не 6.
 #include <iostream>
+#include <iomanip>
 #include <limits>
 #include <random>
 #include <stdexcept>
